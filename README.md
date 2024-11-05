@@ -1,1 +1,1 @@
-# JLU-SE-22-Database-Application-Development
+# 吉林大学软件学院2022级必修课-数据库应用程序开发源码及教程
